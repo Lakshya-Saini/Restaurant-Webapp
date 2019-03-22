@@ -22,4 +22,4 @@ Admin can also:
 
 This webapp uses a number of open source projects or frameworks to work:
 
-     * [Bootstrap](getbootstrap.com) - great UI boilerplate for modern web apps
+     [Bootstrap](https://getbootstrap.com/)
