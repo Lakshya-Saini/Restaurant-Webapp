@@ -3,7 +3,7 @@
 	include 'auth/database.php';
 	
 	session_start();
-
+//
     $email = $_SESSION['email'];
 
     if(!isset($email))
